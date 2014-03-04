@@ -1,0 +1,16 @@
+{
+  "name": "hapi-nedb",
+  "description": "A generic NeDB database adapter for Hapi",
+  "version": "0.0.1",
+  "author": "Ben Barclay",
+  "repository": "git@github.com:blinkmobile/hapi-db.git",
+  "main": "index.js",
+  "keywords": [
+    "nedb",
+    "hapi"
+  ],
+  "license": "BSD",
+  "dependencies": {
+    "nedb": "^0.10.4"
+  }
+}
